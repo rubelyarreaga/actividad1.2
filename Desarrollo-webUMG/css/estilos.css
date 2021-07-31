@@ -1,0 +1,7 @@
+body {background:hsl(78, 50%, 64%);color:fff;}
+
+a {
+    background:red;
+ color: rgb(48, 18, 182);
+ border: 10px solid #000;
+}
